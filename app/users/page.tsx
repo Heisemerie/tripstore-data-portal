@@ -8,7 +8,7 @@ export default function UsersPage() {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-200 p-4 md:p-8">
-      <div className="max-w-[1600px] mx-auto">
+      <div className="max-w-400 mx-auto">
         {" "}
         {/* Increased max-width for ultra-wide screens */}
         {/* Header Section */}
@@ -37,7 +37,7 @@ export default function UsersPage() {
               The 'overflow-x-auto' allows swiping on mobile. 
           */}
           <div className="overflow-x-auto scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-transparent">
-            <table className="w-full min-w-[1100px] border-collapse">
+            <table className="w-full min-w-275 border-collapse">
               <thead className="bg-slate-800/50">
                 <tr className="text-left border-b border-slate-700">
                   <th className="px-8 py-5 text-xs font-bold text-slate-400 uppercase tracking-widest">
@@ -139,9 +139,6 @@ function UserRow({ user }: { user: User }) {
 
 function StatusBadge({ status }: { status: string }) {
   const isActive = status === "active";
-  const styles = isActive
-    ? "bg-emerald-500/10 text-emerald-400 border-emerald-500/20"
-    : "bg-slate-800 text-slate-500 border-slate-700";
 
   return (
     <div className="flex items-center gap-2">
@@ -172,7 +169,7 @@ function StatCard({
   color?: string;
 }) {
   return (
-    <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 shadow-lg min-w-[160px]">
+    <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 shadow-lg min-w-40">
       <p className="text-[10px] font-black text-slate-500 uppercase tracking-[0.2em] mb-2">
         {label}
       </p>

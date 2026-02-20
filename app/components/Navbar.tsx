@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="bg-blue-600 text-white p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          DataPortal
+          Tripstore Data Portal
         </Link>
         <div className="space-x-6">
           <Link href="/products" className="hover:underline">

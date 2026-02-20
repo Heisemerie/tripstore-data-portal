@@ -78,7 +78,7 @@ function ProductCard({ item }: { item: Product }) {
   return (
     <div className="group bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden hover:border-indigo-500/50 transition-all duration-300 flex flex-col shadow-xl">
       {/* Image Container */}
-      <div className="aspect-[4/5] relative bg-slate-800 overflow-hidden">
+      <div className="aspect-4/5 relative bg-slate-800 overflow-hidden">
         {item.images[0] ? (
           <Image
             src={item.images[0]}
@@ -100,13 +100,13 @@ function ProductCard({ item }: { item: Product }) {
       </div>
 
       {/* Content */}
-      <div className="p-5 flex flex-col flex-grow">
+      <div className="p-5 flex flex-col grow">
         <div className="flex justify-between items-start mb-2">
           <div>
             <p className="text-xs font-bold text-indigo-500 uppercase tracking-tighter mb-1">
               {item.brand}
             </p>
-            <h3 className="text-sm font-bold text-white leading-tight line-clamp-2 min-h-[40px]">
+            <h3 className="text-sm font-bold text-white leading-tight line-clamp-2 min-h-10">
               {item.name}
             </h3>
           </div>

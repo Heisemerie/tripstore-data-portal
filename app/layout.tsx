@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Data Dashboard",
+  title: "Tripstore Data Dashboard",
   description: "Tripstore Local Data Viewer",
 };
 

@@ -110,7 +110,7 @@ function SaleRow({ sale }: { sale: Order }) {
           <span className="text-[10px] font-black uppercase tracking-tighter text-slate-500">
             {sale.payment.type}
           </span>
-          <span className="text-[10px] font-mono text-slate-600 truncate max-w-[120px]">
+          <span className="text-[10px] font-mono text-slate-600 truncate max-w-30">
             {sale.payment.details.transactionId}
           </span>
         </div>
@@ -143,7 +143,7 @@ function MetricCard({
   color?: string;
 }) {
   return (
-    <div className="bg-slate-900 border border-slate-800 p-4 rounded-xl flex-grow min-w-[140px]">
+    <div className="bg-slate-900 border border-slate-800 p-4 rounded-xl grow min-w-35">
       <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-1">
         {label}
       </p>
