@@ -1,0 +1,987 @@
+[
+  {
+    "_id": {
+      "$oid": "6697039c77fea1fcc0faa39e"
+    },
+    "firstname": "Adedayo",
+    "lastname": "Adeniyi",
+    "password": "$2a$10$9zrbMp/28jYXsb0ca2pcaeenCQHcaeqdlp..2JP/9N4ytNC6SEdLm",
+    "email": "haysurv@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "__v": 0,
+    "points": 0,
+    "total_items_purchased": 0,
+    "total_purchases": {
+      "$numberDecimal": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6697e09fb2cf077b8e4e0728"
+    },
+    "firstname": "mathew",
+    "lastname": "bamidele",
+    "password": "$2a$10$fZsmnDboksdY8YGMwuWZpeLWU6sTIOqY29RlFOaqOEYTsvX2ihPea",
+    "email": "b.mathew@arcstark.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66e9c9a2b8bd9896288ff73e"
+    },
+    "firstname": "Margaret",
+    "lastname": "Udoh",
+    "password": "$2a$10$HbAomxNx1.pJ.F.kx3/rPu2UKoZoxKVRu2m5yZJHTHdUa.V6fECfe",
+    "email": "megudoh@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66feb02b79dc646665da6a02"
+    },
+    "firstname": "Dorcas",
+    "lastname": "Simon",
+    "password": "$2a$10$gbH.i/O8a6k/eOW13.zpD.34DEEwZnUMRAKTWuNI8gOdHAXp4xevW",
+    "email": "d.simon@tripstore.ng",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66feb1c879dc646665da6a1c"
+    },
+    "firstname": "anastacia",
+    "lastname": "boniface",
+    "password": "$2a$10$8CCF81atuT2HS6rusGi5O.PTpvQJIblZgTk7Q.1Qm1ez/keobWJKG",
+    "email": "a.boniface@tripstore.ng",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67156d0a46730626d19fc48a"
+    },
+    "firstname": "Zainab",
+    "lastname": "Mukaila",
+    "password": "$2a$10$tgOh1MRKBD9SMHOhJWy8PefSBcWXxxBUv9rf6zAqXTzJDW/ioWW/e",
+    "email": "zainabmukaila693@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6738be2c9f72085329cb4700"
+    },
+    "firstname": "Ibrahim ",
+    "lastname": "Sulayman ",
+    "password": "$2a$10$LCSo/ZhCYKETL1mfUghWKuRk/bIReH97TL25ZEXtQaCAyeN5Lp2Dq",
+    "email": "duu",
+    "phone_number": "8663325",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "Sj",
+    "city": "Ibadan ",
+    "state": "Oyo",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673b25ad9f72085329cb72a3"
+    },
+    "firstname": "CHIOMA",
+    "lastname": "PERITA",
+    "password": "$2a$10$fVYu/5NIKc9SN9nF.MGMDurwz87RGGu4062KRgXEb2e2ciidA6WdG",
+    "email": "chiomaperita@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e327423eea5d039f528cd"
+    },
+    "firstname": "Joshua",
+    "lastname": "Iyang",
+    "password": "$2a$10$fEcdFQAnNmR4UujI2H5UYeUeQ7q8G7iWodH5puS3zl/8box.awGUW",
+    "email": "joshuaiyang2000@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "673e689123eea5d039f53a0c"
+    },
+    "firstname": "Stefan",
+    "lastname": "Peter",
+    "password": "$2a$10$rPgj..Vd2CT1f8C9j3J2bOAJaNLUQD6Urd7wH.pqUqg1VZ8e28vvO",
+    "email": "s.peter@tripstore.ng",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6745e67f4624cbc85a46bb10"
+    },
+    "firstname": "Kris ",
+    "lastname": "Magnus ",
+    "password": "$2a$10$bwaiSh7PAt3cl/z2ZjSlMueq19aVBGWBIfIRWiAqp4.ifZzX4se2a",
+    "email": "prettymagnus@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "679bbb04259fc62daf5ab47c"
+    },
+    "firstname": "Emmanuel",
+    "lastname": "Ereyomi",
+    "password": "$2a$10$R/lgScQcZWGJO3budOtApeoO/MUeBU1AiRYeJ0w12XWoVdAp56RhG",
+    "email": "emacaulay2008@gmail.com",
+    "phone_number": "",
+    "user_type": "supervisor",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67a36883259fc62daf5be5d7"
+    },
+    "firstname": "Zara",
+    "lastname": "Musa",
+    "password": "$2a$10$dHngfw7Bdzic1xrX8E7HluwDeNyAT46zCJH/joJTAovF/Xm536KMK",
+    "email": "beidahmusa@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67dc8640817961aad2c952b4"
+    },
+    "firstname": "blem",
+    "lastname": "wurld",
+    "password": "$2a$10$bwfxMMo7dfv8u3mYYWxunexUTBcE7K1fDxQMwcGoR3fgI7UG2h0ge",
+    "email": "blemwurld@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67e143c6280981332ef356f7"
+    },
+    "firstname": "Favour",
+    "lastname": "Moses",
+    "password": "$2a$10$eNcmNJiLcT509/ru.q1o7OJqXDSQhJar3jx7hYmeQTXP5554kHMfe",
+    "email": "mosesfavour65@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67e14427280981332ef356fb"
+    },
+    "firstname": "Favour",
+    "lastname": "Moses",
+    "password": "$2a$10$rFkEGz8lMS8sdyQzpCHHb.9hBl5AL50./8m/SbByTB/VF6BKAMGV2",
+    "email": "f.moses@arcstark.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f67f642a8578f6a6449726"
+    },
+    "firstname": "Favour",
+    "lastname": "Moses",
+    "password": "$2a$10$xiLwKU4SPdSvHP.aklEIyep77Ksh44d805NgyUiXzU/zAkRmD4BGS",
+    "email": "mosesfavour140@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f67fca2a8578f6a644974f"
+    },
+    "firstname": "Annie",
+    "lastname": "Malcolm",
+    "password": "$2a$10$p2jIUN2YR25pLMdWsGsGhuODt2AjeUzW56tRjycXQwbiho93Ql6ta",
+    "email": "malcolmannie041@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6819d80c10584f0f1684fcfe"
+    },
+    "firstname": "Bruce",
+    "lastname": "Lester",
+    "password": "$2a$10$BdZmtMwew4VtQPV1DXaDheesx.4vX4/Ffo1Hx5aHNjifCXA6o6Oq6",
+    "email": "nuqanima@mailinator.com",
+    "phone_number": "08068243327",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "hilltop hills",
+    "city": "gotham",
+    "state": "carlifonia",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "681cd18d10584f0f1685b15b"
+    },
+    "firstname": "Margaret",
+    "lastname": "Udoh",
+    "password": "$2a$10$pLnQVKzIE07/6MUYrhi0rOQC.VBWVrG68F6TSdnJvtV8pCp64DYye",
+    "email": "margaret.udoh@ymail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "681cd74f10584f0f1685d4e8"
+    },
+    "firstname": "Emma",
+    "lastname": "Tobi",
+    "password": "$2a$10$PYSCKRz40yVdMOzip.uEaO3S.YuvyH9kkSbxznzgegzeOCddtOCBG",
+    "email": "emma_oluwatobi@yahoo.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6824ae74840ad85ffca47f30"
+    },
+    "firstname": "Doris",
+    "lastname": "Cox",
+    "password": "$2a$10$RxbZKbLLKwpGlmjileg3Wu0niTwjvm/bZ9R55S3C/LshWKhoJZQPm",
+    "email": "nyqyra@mailinator.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6824aeb2840ad85ffca47f5b"
+    },
+    "firstname": "Isaiah",
+    "lastname": "Warren",
+    "password": "$2a$10$zmxzoreQEU089KLP7YML6uEmZ19tm5DZ7jdlfUcRqbv5mrVVm9C9S",
+    "email": "syfi@mailinator.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "682599c423db1ee7d1722392"
+    },
+    "firstname": "Joy",
+    "lastname": "James ",
+    "password": "$2a$10$1zA7Lp/Fs1tK6zkjwPfBGeHzJF8UBn8rxhU5XcOvYC8j/TaJesiFC",
+    "email": "effiongj55@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "682618b823db1ee7d1732df6"
+    },
+    "firstname": "Favour",
+    "lastname": "Moses",
+    "password": "$2a$10$.qK14pP4xnBNokjYBDfDpuErOkqd1JJ1RANlRrADAZfgd5O3Tm7te",
+    "email": "f.moses@arcstack.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6827196f23db1ee7d1743f3e"
+    },
+    "firstname": "paul caleb",
+    "lastname": "otokolo",
+    "password": "$2a$10$6hd6t0aGH.Tbmoo1O18GnujfCC2WWLt2.pl9R325Z0J03AVfwpTr6",
+    "email": "paul@arcstack.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68271f9023db1ee7d1747904"
+    },
+    "firstname": "paul caleb",
+    "lastname": "otokolo ",
+    "password": "$2a$10$UqpcwEdeAbZTvhHaER/aSu/Ch/9cxycU6OlvF4XrLHII.1YsoX7b2",
+    "email": "p.otokolo@arcstack.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68273a3323db1ee7d17534f4"
+    },
+    "firstname": "Sunset&",
+    "lastname": "Cocktails",
+    "password": "$2a$10$N2EXZUIq8HWT87rpcs45auxcmp5fX5AuFmCEcotZGlGBdPWWcGXdC",
+    "email": "abelaquila@gmail.com",
+    "phone_number": "+2348188719855",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6827547123db1ee7d17555e7"
+    },
+    "firstname": "08160910797Guest",
+    "lastname": "User-08160910797",
+    "password": "randompassword-08160910797",
+    "email": "08160910797@example.com",
+    "phone_number": "08160910797",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6834aca4061eba847fde2ea5"
+    },
+    "firstname": "Adams",
+    "lastname": "Blessing",
+    "password": "$2a$10$aShECMhw6GDP/hZUq4FbNee462UpUxyol/MdlBgxML89cAtcLZgYq",
+    "email": "blessingadams683@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6843deffebca696451501927"
+    },
+    "firstname": "bam",
+    "lastname": "mat",
+    "password": "$2a$10$XyTtV8kNLtjF5H0it3xOtex1wAM8tzEwIartWXJ0LS.EQMACbmzGK",
+    "email": "mathew.bamidele229@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6846d94debca69645151610d"
+    },
+    "firstname": "JIMI PHREAKING",
+    "lastname": "ISAAC",
+    "password": "$2a$10$xMM7.XmNHDVzlVouvpA1h.LAEs48JWbyZ62ETOe3Dz1SSi7DBtdNi",
+    "email": "phreakingisaac@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68625afb907d926aff42aa8c"
+    },
+    "firstname": "Chiemerie",
+    "lastname": "Mbah",
+    "password": "$2a$10$kJKYbgzyvtjGKb0FYP88Lu5JjGXaBKALrQXPRO/FZ9swwJa1jGWdy",
+    "email": "ejike162@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "688104d5ba710b51ca859b27"
+    },
+    "firstname": "Chisom",
+    "lastname": "Okeke",
+    "password": "$2a$10$0Ou9UyLdfP221uxW1nXZIu7DVSd03ZoqDUQhu.EPI/8q6ql.g.pBy",
+    "email": "chisomokeke124@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6883b70bba710b51ca86512e"
+    },
+    "firstname": "Paul ",
+    "lastname": "Iche",
+    "password": "$2a$10$Id77MspwQ/S/2o1182M5LuLK4P.GmnLGdAEb1j6eKw9rTMdBqh3mq",
+    "email": "ichehigher@gmail.com",
+    "phone_number": "",
+    "user_type": "supervisor",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68852684ba710b51ca86c278"
+    },
+    "firstname": "Paul",
+    "lastname": "Iche",
+    "password": "$2a$10$VMiLpE5ZYJcgjmFTknRF4u4B2JDpM8LG5gooT/oKEfZKeq7obza86",
+    "email": "ichepaul9@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "inactive",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68caeffda2c06de6fbbcdb72"
+    },
+    "firstname": "joshua",
+    "lastname": "ugbechie",
+    "password": "$2a$10$gN3xMBpbISC0wKf2jKXOIOVOuYl3yCqSS2.5Nhzf3NNUOm/T2A9D2",
+    "email": "joshuacugbechie@gmail.com",
+    "phone_number": "",
+    "user_type": "sales_rep",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68d15ce2a2c06de6fbbe0155"
+    },
+    "firstname": "ESTHER OLUWATOSIN",
+    "lastname": "OLOLRUNPOMI ",
+    "password": "$2a$10$nt4R7CTiKfzX0e99YO16QeDiF.VrjSXSbrl0xjhwVpDAv0wwjxVc6",
+    "email": "pomiesther123@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68e65bcda2c06de6fbc7227b"
+    },
+    "firstname": "aishe",
+    "lastname": "sahabi",
+    "password": "$2a$10$.968zDjNwmN4jnQehzp5.OkHLEDI8.FPEOQSI5fa6TnIVPLPFmF/2",
+    "email": "aishesahabi@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68e65c24a2c06de6fbc7227d"
+    },
+    "firstname": "Gift",
+    "lastname": "Wada",
+    "password": "$2a$10$ixNW9FwkGR4VOoh2Iy1Pqupt420YDjQ0lXB0V1SHyMOZVEyV8hEXG",
+    "email": "wgift41@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68ee3df6a2c06de6fbcae86a"
+    },
+    "firstname": "Adeniyi ",
+    "lastname": "Adedoyin",
+    "password": "$2a$10$GlEWbj/XxLAgYV9Vh0waf.PuKlepNQb0IrVtYsLy1zPKXx8SofN.6",
+    "email": "dapizy080@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68fa4336a2c06de6fbd1f914"
+    },
+    "firstname": "james",
+    "lastname": "arvidson",
+    "password": "$2a$10$BVlI566Q7AeYl.ixMYu1v.fsSKY2I3zjy.kINRojddDxl/r3I1pxW",
+    "email": "jamesarvidson@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68fa440ca2c06de6fbd1f93a"
+    },
+    "firstname": "james",
+    "lastname": "arvidson",
+    "password": "$2a$10$7MdRb7xBQGwcJtMZZV.iYeLK1OxxmdyEGT1CYckRAekwcGSlwe3ei",
+    "email": "jamesarvidson01@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68fa44dea2c06de6fbd1f980"
+    },
+    "firstname": "Akpe",
+    "lastname": "Gideon",
+    "password": "$2a$10$qP.xHB2e6m/ZioyCtaDpUuchI.0zdMELkn9PKS7dug2WiWlU3Y5vC",
+    "email": "theonlyfreeman.t@gmail.com",
+    "phone_number": "",
+    "user_type": "admin",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68fb32aca2c06de6fbddb993"
+    },
+    "firstname": "Mohammed",
+    "lastname": "Bashir",
+    "password": "$2a$10$crTxrDCA9iYsyHw.3pEfTeSvUjf3gvGQGKqfI2ax9Hy3uj92fa6R.",
+    "email": "k2liner11@gmail.com",
+    "phone_number": "",
+    "user_type": "user",
+    "social_auth": false,
+    "status": "active",
+    "address": "",
+    "city": "",
+    "state": "",
+    "total_purchases": {
+      "$numberDecimal": "0"
+    },
+    "total_items_purchased": 0,
+    "points": 0,
+    "__v": 0
+  }
+]
