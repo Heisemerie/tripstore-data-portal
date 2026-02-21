@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tripstore Data Dashboard",
-  description: "Tripstore Local Data Viewer",
+  title: "Tripstore",
+  description: "Tripstore Legacy Data Viewer",
 };
 
 export default function RootLayout({
