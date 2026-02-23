@@ -12,13 +12,6 @@ export interface SalesRep {
   email: string;
 }
 
-export interface OrderItem {
-  product: string;
-  quantity: number;
-  price: number;
-  _id: MongoId;
-}
-
 export interface PaymentDetails {
   transactionId: string;
   cardType: string | "N/A";
@@ -31,12 +24,25 @@ export interface Payment {
   details: PaymentDetails;
 }
 
+export interface OrderItem {
+  product: string;
+  quantity: number;
+  price: number;
+  color: string;
+  size: string;
+  sku: string;
+  status: string;
+  _id: MongoId;
+}
+
 export interface Order {
   _id: MongoId;
   salesRep: SalesRep;
   items: OrderItem[];
   subtotal: number;
   tax: number;
+  discountAmount: number;
+  discountPercentage: number;
   total: number;
   payment: Payment;
   orderNumber: string;

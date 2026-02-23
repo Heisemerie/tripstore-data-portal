@@ -97,7 +97,9 @@ export default function SalesPage() {
                   <tr className="bg-slate-800/40 text-slate-400 text-[10px] font-bold uppercase tracking-widest border-b border-slate-800">
                     <th className="px-6 py-4">Order Details</th>
                     <th className="px-6 py-4">Sales Representative</th>
-                    <th className="px-6 py-4">Payment Method</th>
+                    <th className="px-6 py-4">Payment & Transaction</th>
+                    <th className="px-6 py-4 text-right">Discounts</th>{" "}
+                    {/* Added field */}
                     <th className="px-6 py-4 text-right">Total Amount</th>
                   </tr>
                 </thead>
