@@ -35,7 +35,7 @@ export default function ProductsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-8">
+    <div className="min-h-screen bg-slate-950 text-slate-100">
       <div className="max-w-7xl mx-auto">
         <header className="flex flex-col lg:flex-row justify-between items-start lg:items-center mb-10 gap-6">
           <div>

@@ -9,8 +9,8 @@ export default function UsersPage() {
   const activeCount = users.filter((u) => u.status === "active").length;
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-200 p-4 md:p-8">
-      <div className="max-w-400 mx-auto">
+    <div className="min-h-screen bg-slate-950 text-slate-200 ">
+      <div className="mx-auto">
         {" "}
         {/* Increased max-width for ultra-wide screens */}
         {/* Header Section */}
