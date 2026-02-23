@@ -29,7 +29,7 @@ export default function SalesPage() {
   const totalTax = filteredSales.reduce((acc, sale) => acc + sale.tax, 0);
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 ">
+    <div className="min-h-screen bg-slate-950 text-slate-100 p-6">
       <div className="max-w-7xl mx-auto">
         {/* Header & Search Bar */}
         <header className="mb-10 flex flex-col xl:flex-row justify-between items-start xl:items-center gap-6">
