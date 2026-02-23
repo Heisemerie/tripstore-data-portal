@@ -28,10 +28,10 @@ export interface OrderItem {
   product: string;
   quantity: number;
   price: number;
-  color: string;
-  size: string;
-  sku: string;
-  status: string;
+  color?: string;
+  size?: string;
+  sku?: string;
+  status?: string;
   _id: MongoId;
 }
 
@@ -41,8 +41,8 @@ export interface Order {
   items: OrderItem[];
   subtotal: number;
   tax: number;
-  discountAmount: number;
-  discountPercentage: number;
+  discountAmount?: number;
+  discountPercentage?: number;
   total: number;
   payment: Payment;
   orderNumber: string;

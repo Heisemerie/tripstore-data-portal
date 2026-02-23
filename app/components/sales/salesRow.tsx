@@ -76,7 +76,7 @@ export default function SaleRow({ sale }: { sale: Order }) {
         <td className="px-6 py-4 text-right">
           <div className="flex flex-col">
             <span className="text-sm font-bold text-amber-500">
-              -₦{sale.discountAmount.toLocaleString()}
+              -₦{sale.discountAmount?.toLocaleString()}
             </span>
             <span className="text-[10px] text-slate-500">
               {sale.discountPercentage}% OFF
@@ -173,7 +173,7 @@ export default function SaleRow({ sale }: { sale: Order }) {
                     </div>
                     <div className="flex justify-between text-amber-500/80">
                       <span>Discount ({sale.discountPercentage}%)</span>
-                      <span>-₦{sale.discountAmount.toLocaleString()}</span>
+                      <span>-₦{sale.discountAmount?.toLocaleString()}</span>
                     </div>
                     <div className="flex justify-between text-slate-400">
                       <span>Tax (VAT)</span>
